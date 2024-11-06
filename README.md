@@ -143,6 +143,8 @@ Use cat to View Results:
 sudo cat /var/log/osquery/osqueryd.results.log
 ```
 <img src="https://github.com/user-attachments/assets/37a4aed5-00b2-4b9c-8ce3-54c017cdbe26" width="620" height="650">
+<br>
+Query Success! We see our logs of trying to see *SELECT* FROM users;
 
 # Conclusion
 This project allowed me to dive into setting up Osquery as a powerful security monitoring tool, giving me hands-on experience with Linux system administration, log management, and crafting custom queries. By configuring Osquery to track essential system information, I demonstrated my ability to use open-source tools for security data collection and analysis.
